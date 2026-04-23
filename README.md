@@ -1,6 +1,3 @@
-# Sudoku-Solver
-
 <div align="center">
-  <video src="https://github.com/user-attachments/assets/74b768a4-073c-41be-9407-74895f87771f" width="100%" autoplay muted loop playsinline>
-  </video>
+  <img src="https://github.com/user-attachments/assets/56f1406d-e9c1-419b-a365-d60293043818" width="100%" alt="Sudoku Solver Demo">
 </div>
